@@ -1,0 +1,11 @@
+Errores que me gustaria solucionar
+
+El Nav se ve muy sepradado en ventanas grande y cuando tenga objetos debajo quiero que se vea translucido envio una captura que es @nav-nada-debajo @nav-debajo quiero tambien que cuando pase por encima salga un title que a donde vas 
+
+En @Banner.js de la linea 45 53 quiero añadir iconos pero no funciona y da error miralo y añade los iconos de github,linked y no se si añadir otro mas
+
+En el formulario que es en @Contact.js que no se ve bien el borde redondeado
+
+Por ultimo quiero poner que cuando yo use un google o algo en ingles o no se si poner mas idioma que todo los texto salga en ese idioma ponmelo en, ingles,frances y no se si poner algo mas de idioma y español claro
+
+Por ultimo ya tengo la base pero quiero un rediseño quiero algo minimalista y que tenga un estilo calido serio profesional formal no se si me entiende 
